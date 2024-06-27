@@ -8,7 +8,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 // import required modules
-import { Pagination } from "swiper/modules";
+import { Pagination, Autoplay } from "swiper/modules";
 
 export default function Slider() {
   return (
@@ -17,25 +17,30 @@ export default function Slider() {
         pagination={{
           dynamicBullets: true,
         }}
-        modules={[Pagination]}
+        modules={[Pagination, Autoplay]}
+        loop={true}
         className="mySwiper "
-        style={{ height: "60vh" }}
+        style={{ height: "90vh" }}
+        autoplay={{
+          delay: 5000,
+          disableOnInteraction: true,
+        }}
 
       >
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-red-200"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s1.jpg')]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-red-200"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s2.jpg')]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-red-200"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s3.jpg')]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-red-200"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s4.jpg')]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-red-200"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s5.jpg')]"></div>
         </SwiperSlide>
       </Swiper>
     </>

@@ -2,20 +2,18 @@ import React from "react";
 
 export default function Gallery_Section() {
   return (
-    <div class="bg-white  h-screen h-full py-6 sm:py-8 lg:py-12">
+    <div class=" h-full py-6 sm:py-8 lg:py-12 border-b">
       <div class="mx-auto max-w-7xl px-4 md:px-8">
         <div class="mb-4 flex items-center justify-between gap-8 sm:mb-8 md:mb-12">
           <div class="flex items-center gap-12">
             <h2 class="text-2xl font-bold text-gray-800 lg:text-3xl ">
               Gallery
             </h2>
-
-            
           </div>
 
           <a
             href="#"
-            class="inline-block rounded-lg border bg-white  px-4 py-2 text-center text-sm font-semibold text-gray-500  outline-none ring-indigo-300 transition duration-100 hover:bg-gray-100 focus-visible:ring active:bg-gray-200 md:px-8 md:py-3 md:text-base"
+            class="inline-block rounded-lg border bg-[#255c39]  px-4 py-2 text-center text-sm font-semibold text-white  outline-none ring-indigo-300 transition duration-100 hover:bg-[#255c39]/90 focus-visible:ring md:px-8 md:py-3 md:text-base"
           >
             More
           </a>

@@ -2,9 +2,10 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-white py-8">
+    
+    <footer className=" bg-[#255c39] text-white py-8">
       <div className="container mx-auto flex flex-col items-center">
-      <a href="/donate" className="bg-green-700 text-white px-4 py-2 my-5 rounded hover:bg-blue-600">
+      <a href="/donate" className="bg-green-700  px-4 py-2 my-5 rounded hover:bg-blue-600">
           Support the Cause
         </a>
         <p className="text-lg mb-4">Contact Us:</p>
@@ -22,7 +23,7 @@ export default function Footer() {
         </ul>
         
 
-        <div style={{ overflow: "hidden", maxWidth: "100%", width: "100vw", height: "500px" }}>
+        <div style={{ overflow: "hidden", maxWidth: "100%", width: "80vw", height: "500px" }}>
           <div id="gmap-canvas" style={{ height: "100%", width: "100%", maxWidth: "100%" }}>
             <iframe style={{ height: "100%", width: "100%", border: 0 }} src="https://www.google.com/maps/embed/v1/place?q=meerut&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
           </div>
