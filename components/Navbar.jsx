@@ -32,7 +32,7 @@ const Navbar = () => {
       } lg:px-16 px-4  w-full flex flex-wrap items-center border-b font-black py-3 fixed bg-cover bg-no-repeat top-0 z-[999]`}
     >
       <div className="flex-1 flex justify-between items-center">
-        <a href="#" className="text-xl">
+        <a href="/" className="text-xl">
           Company
         </a>
       </div>
@@ -64,17 +64,17 @@ const Navbar = () => {
               </a>
             </li>
             <li>
-              <a className="md:p-4 py-3 px-0 block" href="#">
-                Treatments
+              <a className="md:p-4 py-3 px-0 block" href="/founders">
+                Founders
               </a>
             </li>
             <li>
-              <a className="md:p-4 py-3 px-0 block" href="#">
-                Blog
+              <a className="md:p-4 py-3 px-0 block" href="/donate">
+                Donate
               </a>
             </li>
             <li>
-              <a className="md:p-4 py-3 px-0 block md:mb-0 mb-2" href="#">
+              <a className="md:p-4 py-3 px-0 block md:mb-0 mb-2" href="/contactus">
                 Contact Us
               </a>
             </li>
