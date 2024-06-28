@@ -68,11 +68,11 @@ const Navbar = () => {
                 Founders
               </a>
             </li>
-            <li>
+            {/* <li>
               <a className="md:p-4 py-3 px-0 block" href="/donate">
                 Donate
               </a>
-            </li>
+            </li> */}
             <li>
               <a className="md:p-4 py-3 px-0 block md:mb-0 mb-2" href="/contactus">
                 Contact Us
