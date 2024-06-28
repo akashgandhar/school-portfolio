@@ -1,4 +1,5 @@
 "use client";
+import Link from "next/link";
 //ojas shikshan and pariksha sansthan
 import React, { useEffect, useState } from "react";
 
@@ -59,14 +60,14 @@ const Navbar = () => {
         <nav>
           <ul className="md:flex items-center justify-between text-base  pt-4 md:pt-0">
             <li>
-              <a className="md:p-4 py-3 px-0 block" href="/about">
+              <Link className="md:p-4 py-3 px-0 block" href="/about">
                 About Us
-              </a>
+              </Link>
             </li>
             <li>
-              <a className="md:p-4 py-3 px-0 block" href="/founders">
+              <Link className="md:p-4 py-3 px-0 block" href="/founders">
                 Founders
-              </a>
+              </Link>
             </li>
             {/* <li>
               <a className="md:p-4 py-3 px-0 block" href="/donate">
@@ -74,9 +75,9 @@ const Navbar = () => {
               </a>
             </li> */}
             <li>
-              <a className="md:p-4 py-3 px-0 block md:mb-0 mb-2" href="/contactus">
+              <Link className="md:p-4 py-3 px-0 block md:mb-0 mb-2" href="/contactus">
                 Contact Us
-              </a>
+              </Link>
             </li>
           </ul>
         </nav>
