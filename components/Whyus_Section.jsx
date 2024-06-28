@@ -56,7 +56,7 @@ export default function Whyus_Section() {
                             <p class="font-heading ml-16 text-lg leading-6 font-bold ">Affordable Excellence
                             </p>
                         </dt>
-                        <dd class="mt-2 ml-16 text-base text-slate-300"> We understand the financial constraints faced by many families. That's why we offer high-quality education at a very nominal fee, particularly for students from backward classes. We believe every child deserves the opportunity to reach their full potential.
+                        <dd class="mt-2 ml-16 text-base text-slate-300"> We understand the financial constraints faced by many families. That&apos;s why we offer high-quality education at a very nominal fee, particularly for students from backward classes. We believe every child deserves the opportunity to reach their full potential.
                         </dd>
                     </div>
                     <div class="relative bg-[#255c39] text-white p-4 rounded-xl">
