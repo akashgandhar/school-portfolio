@@ -14,7 +14,7 @@ export default function Founders() {
   return (
     <div className="px-8  w-full">
       <h2 class="text-3xl font-bold tracking-tight text-center sm:text-4xl mb-4">
-        Our Founders
+        Mission & Vision
       </h2>
       <Swiper
         pagination={{
@@ -32,7 +32,7 @@ export default function Founders() {
           <div className="w-full h-full  rounded-xl flex">
             <div className="w-full h-full flex flex-col p-8  items-start">
               <h3 class="text-3xl font-bold tracking-tight text-center sm:text-4xl mb-4">
-                Founder 1
+                Mission
               </h3>
               <p class="text-lg text-center">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
@@ -48,7 +48,7 @@ export default function Founders() {
           <div className="w-full h-full  rounded-xl flex">
             <div className="w-full h-full flex flex-col p-8  items-start">
               <h3 class="text-3xl font-bold tracking-tight text-center sm:text-4xl mb-4">
-                Founder 1
+                Vision
               </h3>
               <p class="text-lg text-center">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
@@ -64,7 +64,7 @@ export default function Founders() {
           <div className="w-full h-full  rounded-xl flex">
             <div className="w-full h-full flex flex-col p-8  items-start">
               <h3 class="text-3xl font-bold tracking-tight text-center sm:text-4xl mb-4">
-                Founder 1
+                Director's Message
               </h3>
               <p class="text-lg text-center">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
