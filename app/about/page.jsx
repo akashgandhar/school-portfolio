@@ -42,7 +42,7 @@ const Page = () => {
               <div className="h-[20vh] w-0 border border-black "></div>
 
               <div className="flex flex-col justify-center items-center w-full p-1 sm:w-[40%]">
-                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269]">
+                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269] pb-4">
                   Our Philosophy is <br /> Simple
                 </p>
                 <p className="justify-center align-center items-center w-full text-center text-lg sm:text-xl text-slate-400 ">
@@ -57,13 +57,14 @@ const Page = () => {
               <div className="h-[20vh] w-0 border border-black "></div>
 
               <div className="flex flex-col justify-center items-center w-full p-1 sm:w-[40%]">
-                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269]">
-                  Our Philosophy is <br /> Simple
+                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269] pb-4">
+                Our History is <br /> Achievement
                 </p>
                 <p className="justify-center align-center items-center w-full text-center text-lg sm:text-xl text-slate-400 ">
-                  At our charity school, we believe in creating a nurturing
-                  environment where every child can thrive. Our philosophy
-                  centers around compassion, empathy, and personalized learning.
+                Over the years, we’ve celebrated remarkable milestones. From humble
+              beginnings, we’ve grown into a beacon of education for children from
+              army families. Our alumni have excelled in various fields, embodying
+              the spirit of achievement.
                 </p>
               </div>
             </div>
@@ -72,13 +73,13 @@ const Page = () => {
               <div className="h-[20vh] w-0 border border-black "></div>
 
               <div className="flex flex-col justify-center items-center w-full p-1 sm:w-[40%]">
-                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269]">
-                  Our Philosophy is <br /> Simple
+                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269] pb-4">
+                Our Mission is Our <br /> Dignity
                 </p>
                 <p className="justify-center align-center items-center w-full text-center text-lg sm:text-xl text-slate-400 ">
-                  At our charity school, we believe in creating a nurturing
-                  environment where every child can thrive. Our philosophy
-                  centers around compassion, empathy, and personalized learning.
+                Our mission is clear—to empower young hearts with education,
+              instilling dignity and hope. We strive to create an inclusive space
+              where every child feels valued and respected.
                 </p>
               </div>
             </div>
@@ -127,13 +128,11 @@ const Page = () => {
               <div className="h-[20vh] w-0 border border-black "></div>
 
               <div className="flex flex-col justify-center items-center w-full p-1 sm:w-[40%]">
-                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269]">
-                  Our Philosophy is <br /> Simple
+                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269] pb-4">
+                Our Educational Model is Unprecedented
                 </p>
                 <p className="justify-center align-center items-center w-full text-center text-lg sm:text-xl text-slate-400 ">
-                  At our charity school, we believe in creating a nurturing
-                  environment where every child can thrive. Our philosophy
-                  centers around compassion, empathy, and personalized learning.
+                Our innovative approach combines rigorous academics with character development. We focus on experiential learning, critical thinking, and creativity, ensuring holistic growth.
                 </p>
               </div>
             </div>
@@ -142,13 +141,11 @@ const Page = () => {
               <div className="h-[20vh] w-0 border border-black "></div>
 
               <div className="flex flex-col justify-center items-center w-full p-1 sm:w-[40%]">
-                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269]">
-                  Our Philosophy is <br /> Simple
+                <p className="justify-center align-center items-center w-full text-center text-3xl sm:text-5xl text-[#006269] pb-4">
+                Our Strength is Our <br /> Team
                 </p>
                 <p className="justify-center align-center items-center w-full text-center text-lg sm:text-xl text-slate-400 ">
-                  At our charity school, we believe in creating a nurturing
-                  environment where every child can thrive. Our philosophy
-                  centers around compassion, empathy, and personalized learning.
+                Our dedicated educators, support staff, and volunteers form the backbone of our school. Their passion and commitment drive our success, creating a nurturing environment for our students.
                 </p>
               </div>
             </div>

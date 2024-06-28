@@ -23,17 +23,17 @@ const page = () => {
           <p className="text-center pt-1 font-bold">V.S.M. (Retd)</p>
         </div>
         <p className="w-[100%] sm:w-[40%] px-9 py-3 sm:py-0 text-base text-justify text-gray-500">
-          Today's child is the responsible citizen of tomorrow. fI today's youth
+          Today&apos;s child is the responsible citizen of tomorrow. fI today&apos;s youth
           is aimless and has debilitated values then it is only because of his
-          parents and teachers. Today's way of living with TV, mobile phones and
+          parents and teachers. Today&apos;s way of living with TV, mobile phones and
           internet impel him to be western minded but also are responsible for
           his deterioration of moral values. The teachers have become so money
           minded that they are deprived of sense duty and diligence. Respecting
           women and elders, loving the younger ones these are values ingrained
-          at home but the real guidance only a good teacher can give. In today's
+          at home but the real guidance only a good teacher can give. In today&apos;s
           cut throat competitions, patriotism and good values are on decline. We
           need such institutions which instill love for the country and which
-          can make today's youth diligent and dutiful. It gives me immense
+          can make today&apos;s youth diligent and dutiful. It gives me immense
           pleasure to be associated with this Institute and am willing to
           provide necessary guidance as and when required of me.
         </p>
@@ -69,7 +69,7 @@ const page = () => {
           institutions aside there is nothing much in the Indian education
           system for the vast majority. It has failed miserably in all aims that
           an education system should lay for itself. The biggest sufferer of
-          this apathy is today's youth. The developments in technology,
+          this apathy is today&apos;s youth. The developments in technology,
           globalization and awareness imparted through internet and media have
           taken them very close to the fruits but deprived them of their usage.
           Their incomplete and incompetent education frustrates them. This
@@ -98,7 +98,7 @@ const page = () => {
         </div>
         <p className="w-[100%] sm:w-[40%] px-9 py-3 sm:py-0 text-base text-justify text-gray-500">
           There is a difference between love for the country and service for the
-          country. Today's youth is speaking of patriotism very hyperbolically
+          country. Today&apos;s youth is speaking of patriotism very hyperbolically
           but due to lack of values he stands back if he has to render service
           to the Nation. Today we need such young men who can render selfless
           service not only on the front but fi required everywhere whether it is
@@ -132,11 +132,11 @@ const page = () => {
           I am very pleased and proud to see the zest of the ex- jawans of Betul
           Distt who have shown great sense of duty and responsibility towards
           the society even in difficult circumstances. In the wake of 1962, 1965
-          and 1971 wars it was felt that it is imperative to train today's youth
+          and 1971 wars it was felt that it is imperative to train today&apos;s youth
           for such unprecedented attacks. There have been numerous debates on
           need to have commercial, physical, yogic and sex education but the
           necessity of having military education remains sidelined even till
-          date. Today's youth is aimless because of blindly aping the western
+          date. Today&apos;s youth is aimless because of blindly aping the western
           culture. Therefore, military education is a must. It is not necessary
           that young men are taught about handling weapons, bombs and rifles but
           at least they must understand their primary role in natural
@@ -205,7 +205,7 @@ const page = () => {
           <p className="text-center pt-1 font-bold">(Hockey Olympian)</p>
         </div>
         <p className="w-[100%] sm:w-[40%] px-9 py-3 sm:py-0 text-base text-justify text-gray-500">
-          In today's world majority of the emerging young generation, despite
+          In today&apos;s world majority of the emerging young generation, despite
           being capable, are losing direction ni the absence of discipline,
           knowledge, wisdom and self belief. Today it is essential to have such
           educational and training institutes that can guide them to cultivate
@@ -239,7 +239,7 @@ const page = () => {
           </p>
         </div>
         <p className="w-[100%] sm:w-[40%] px-9 py-3 sm:py-0 text-base text-justify text-gray-500">
-          Today the countries youth is living in a fool's paradise, and under
+          Today the countries youth is living in a fool&apos;s paradise, and under
           pressure to make a career that gives a big pay package, he si
           forgetting cultural values, decency and Nationalism. Some lay the
           fault on society and others on the education system; however someone
