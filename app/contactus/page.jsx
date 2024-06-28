@@ -9,7 +9,7 @@ const Page = () => {
         class="relative h-[50vh] overflow-hidden w-full bg-cover bg-[50%] bg-no-repeat"
       >
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11672.945750644447!2d-122.42107853750231!3d37.7730507907087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858070cc2fbd55%3A0xa71491d736f62d5c!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1619524992238!5m2!1sen!2sus"
+          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD1VnYC6EugmolDY9RjsZ77TeXstyj0288&q=Ojas+Educational+%26+Training+Institute&center=21.902412,78.073455&zoom=16"
           width="100%"
           height="450"
           //   style="border:0;"

@@ -33,7 +33,7 @@ const Navbar = () => {
     >
       <div className="flex-1 flex justify-between items-center">
         <a href="/" className="text-xl">
-          Company
+          OJAS 
         </a>
       </div>
 
