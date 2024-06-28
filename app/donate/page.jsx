@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 
-const page = () => {
+const Page = () => {
     const [donationAmount, setDonationAmount] = useState('');
 
     const handlePresetAmount = (amount) => {

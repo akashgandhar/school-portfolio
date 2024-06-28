@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-const page = () => {
+const Page = () => {
   return (
     <div className="flex py-[7%] flex-col w-full">
       <div className="flex  py-9 text-4xl font-semibold">
@@ -147,7 +147,7 @@ const page = () => {
           and also defend oneself - remains unanswered. This can only come
           through military training. Ojhas Shikshan Prashikshan Sansthan has
           therefore decided to incorporate military training to students of
-          classes 9" to 12". It will indeed be my pleasure to provide guidance
+          classes 9&quot; to 12&quot;. It will indeed be my pleasure to provide guidance
           to this prestigious institution.
         </p>
       </div>

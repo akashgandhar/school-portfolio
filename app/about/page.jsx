@@ -30,7 +30,7 @@ const Page = () => {
                 </h1>
                 <h1 className="justify-center align-center w-full text-center px-4 py-3 text-md sm:text-xl text-slate-400">
                   By providing 17 years of educational intervention, Shanti
-                  Bhavan's approach is long-term and unprecedented. From their
+                  Bhavan&apos;s approach is long-term and unprecedented. From their
                   first day of school to their first day of work, and even
                   beyond, Shanti Bhavan supports its children in every facet of
                   their lives.
@@ -170,7 +170,7 @@ const Page = () => {
               </h1>
               <h1 className="justify-center align-center w-full text-center px-4 py-3 text-xl text-slate-400">
                 By providing 17 years of educational intervention, Shanti
-                Bhavan's approach is long-term and unprecedented. From their
+                Bhavan&apos;s approach is long-term and unprecedented. From their
                 first day of school to their first day of work, and even beyond,
                 Shanti Bhavan supports its children in every facet of their
                 lives.
