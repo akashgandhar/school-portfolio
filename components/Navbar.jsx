@@ -1,5 +1,5 @@
 "use client";
-
+//ojas shikshan and pariksha sansthan
 import React, { useEffect, useState } from "react";
 
 const Navbar = () => {
@@ -32,9 +32,9 @@ const Navbar = () => {
       } lg:px-16 px-4  w-full flex flex-wrap items-center border-b font-black py-3 fixed bg-cover bg-no-repeat top-0 z-[999]`}
     >
       <div className="flex-1 flex justify-between items-center">
-        <a href="/" className="text-xl">
-          OJAS 
-        </a>
+        <Link href="/" className="text-xl uppercase">
+        ojas shikshan and pariksha sansthan 
+        </Link>
       </div>
 
       <div className="pointer-cursor md:hidden block" onClick={toggleMenu}>
