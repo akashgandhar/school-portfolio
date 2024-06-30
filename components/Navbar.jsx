@@ -59,21 +59,22 @@ const Navbar = () => {
       >
         <nav>
           <ul className="md:flex items-center justify-between text-base  pt-4 md:pt-0">
-            <li>
-              <Link className="md:p-4 py-3 px-0 block" href="/about">
-                About Us
-              </Link>
-            </li>
+            
             <li>
               <Link className="md:p-4 py-3 px-0 block" href="/founders">
                 Founders
               </Link>
             </li>
-            {/* <li>
-              <a className="md:p-4 py-3 px-0 block" href="/donate">
-                Donate
+            <li>
+              <a className="md:p-4 py-3 px-0 block" href="/gallery">
+                Gallery
               </a>
-            </li> */}
+            </li>
+            <li>
+              <Link className="md:p-4 py-3 px-0 block" href="/about">
+                About Us
+              </Link>
+            </li>
             <li>
               <Link className="md:p-4 py-3 px-0 block md:mb-0 mb-2" href="/contactus">
                 Contact Us

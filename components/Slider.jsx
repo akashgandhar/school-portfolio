@@ -28,19 +28,19 @@ export default function Slider() {
 
       >
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s1.jpg')]"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/gallery/19.jpeg')] "></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s2.jpg')]"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/gallery/13.jpeg')]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s3.jpg')]"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/gallery/14.jpeg')]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s4.jpg')]"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/gallery/15.jpeg')]"></div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/slider/s5.jpg')]"></div>
+          <div className="w-full min-h-screen bg-cover bg-no-repeat bg-[url('/gallery/17.jpeg')]"></div>
         </SwiperSlide>
       </Swiper>
     </>

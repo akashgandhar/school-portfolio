@@ -16,7 +16,7 @@ export default function Metrics_Section() {
               Of mutual trust and respect Will be ingrained in the youth.
             </p>
           </div>
-          <dl class="mt-16 grid grid-cols-1 text-white gap-0.5 overflow-hidden rounded-2xl text-center sm:grid-cols-2 lg:grid-cols-4">
+          <dl class="mt-16 grid grid-cols-1 text-white gap-0.5 overflow-hidden rounded-2xl text-center sm:grid-cols-2 lg:grid-cols-3">
             <div class="flex flex-col bg-[#255c39]/90 hover:bg-[#255c39]/80 p-8">
               <dt class="text-sm font-semibold leading-6 /60">
                 Students
@@ -33,14 +33,7 @@ export default function Metrics_Section() {
                 500+
               </dd>
             </div>
-            <div class="flex flex-col bg-[#255c39]/90 hover:bg-[#255c39]/80 p-8">
-              <dt class="text-sm font-semibold leading-6 /60">
-                IAS / PCS
-              </dt>
-              <dd class="order-first text-3xl font-semibold tracking-tight ">
-                400+
-              </dd>
-            </div>
+            
             <div class="flex flex-col bg-[#255c39]/90 hover:bg-[#255c39]/80 p-8">
               <dt class="text-sm font-semibold leading-6 /60">
                 Happy Parents

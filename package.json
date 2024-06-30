@@ -11,10 +11,17 @@
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^11.2.12",
+    "imagesloaded": "^5.0.0",
+    "lightgallery": "^2.7.2",
+    "masonry-layout": "^4.2.2",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
+    "react-grid-gallery": "^1.0.1",
     "react-icons": "^5.2.1",
+    "react-image-lightbox": "^5.1.4",
+    "react-photo-album": "^2.4.1",
+    "sass": "^1.77.6",
     "swiper": "^11.1.4",
     "tailwind-merge": "^2.3.0"
   },
@@ -24,6 +31,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.1",
+    "typescript": "5.5.2"
   }
 }

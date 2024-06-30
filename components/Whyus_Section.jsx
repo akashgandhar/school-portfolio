@@ -11,13 +11,7 @@ export default function Whyus_Section() {
                     class="font-heading mb-4 bg-orange-100 text-orange-800 px-4 py-2 rounded-lg md:w-64 md:mx-auto text-xs font-semibold tracking-widest text-black uppercase title-font">
                     Why choose us?
                 </h2>
-                <p class="font-heading mt-2 text-3xl leading-8 font-semibold tracking-tight  sm:text-4xl">
-                    We know tech, we know finance. We are fintech experts.
-                </p>
-                <p class="mt-4 max-w-2xl text-lg text-slate-500 lg:mx-auto">
-                    We know how to handle taxation for all the
-                    countried we operate in. We care for our customers and help them manage cashflows.
-                </p>
+                
             </div>
 
             <div class="mt-10">

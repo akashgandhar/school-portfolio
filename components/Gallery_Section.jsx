@@ -1,4 +1,6 @@
 import React from "react";
+import gallery1 from "../public/gallery/1.jpg";
+import Image from "next/image";
 
 export default function Gallery_Section() {
   return (
@@ -12,7 +14,7 @@ export default function Gallery_Section() {
           </div>
 
           <a
-            href="#"
+            href="/gallery"
             class="inline-block rounded-lg border bg-[#255c39]  px-4 py-2 text-center text-sm font-semibold text-white  outline-none ring-indigo-300 transition duration-100 hover:bg-[#255c39]/90 focus-visible:ring md:px-8 md:py-3 md:text-base"
           >
             More
@@ -21,74 +23,82 @@ export default function Gallery_Section() {
 
         <div class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:gap-6 xl:gap-8">
           <a
-            href="#"
+            href="/gallery"
             class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80"
           >
-            <img
-              src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&q=75&fit=crop&w=600"
+            <Image
+              src="/gallery/19.jpeg"
               loading="lazy"
               alt="Photo by Minh Pham"
               class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+              height={1000}
+              width={1000}
             />
 
             <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
             <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-              VR
+              MP Tours Quiz
             </span>
           </a>
 
           <a
-            href="#"
+            href="/gallery"
             class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80"
           >
-            <img
-              src="https://images.unsplash.com/photo-1542759564-7ccbb6ac450a?auto=format&q=75&fit=crop&w=1000"
+            <Image
+              src="/gallery/3big.jpg"
               loading="lazy"
               alt="Photo by Magicle"
               class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+              height={1000}
+              width={1000}
             />
 
             <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
             <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-              Tech
+              Ojas Sikshan and Prasikshan Sansthan
             </span>
           </a>
 
           <a
-            href="#"
+            href="/gallery"
             class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80"
           >
-            <img
-              src="https://images.unsplash.com/photo-1610465299996-30f240ac2b1c?auto=format&q=75&fit=crop&w=1000"
+            <Image
+              src="/gallery/25.jpeg"
               loading="lazy"
               alt="Photo by Martin Sanchez"
               class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+              height={1000}
+              width={1000}
             />
 
             <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
             <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-              Dev
+            Independence Day
             </span>
           </a>
 
           <a
-            href="#"
+            href="/gallery"
             class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80"
           >
-            <img
-              src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&q=75&fit=crop&w=600"
+            <Image
+              src="/gallery/44.jpeg"
               loading="lazy"
               alt="Photo by Lorenzo Herrera"
               class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
+              height={1000}
+              width={1000}
             />
 
             <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50"></div>
 
             <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">
-              Retro
+              Yoga Divas
             </span>
           </a>
         </div>
