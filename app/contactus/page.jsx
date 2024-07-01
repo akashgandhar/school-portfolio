@@ -9,7 +9,7 @@ const Page = () => {
         class="relative h-[50vh] overflow-hidden w-full bg-cover bg-[50%] bg-no-repeat"
       >
         <iframe
-          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD1VnYC6EugmolDY9RjsZ77TeXstyj0288&q=Ojas+Educational+%26+Training+Institute&center=21.902412,78.073455&zoom=16"
+          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCg00ntkfOqWslxQoRz9BwDhfeBS1erpwE&q=Ojas+Educational+%26+Training+Institute&center=21.902412,78.073455&zoom=16"
           width="100%"
           height="450"
           //   style="border:0;"

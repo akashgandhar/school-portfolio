@@ -46,7 +46,7 @@ export default function Footer() {
           >
             <iframe
               style={{ height: "100%", width: "100%", border: 0 }}
-              src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD1VnYC6EugmolDY9RjsZ77TeXstyj0288&q=Ojas+Educational+%26+Training+Institute&center=21.902412,78.073455&zoom=16"
+              src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCg00ntkfOqWslxQoRz9BwDhfeBS1erpwE&q=Ojas+Educational+%26+Training+Institute&center=21.902412,78.073455&zoom=16"
             ></iframe>
           </div>
         </div>
