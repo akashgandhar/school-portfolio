@@ -79,15 +79,16 @@ const Navbar = () => {
               </Link>
             </li>
             <li>
-              <Link className="md:p-4 py-3 px-0 block" href="/founders">
-                Founders
-              </Link>
-            </li>
-            <li>
               <a className="md:p-4 py-3 px-0 block" href="/gallery">
                 Gallery
               </a>
             </li>
+            <li>
+              <Link className="md:p-4 py-3 px-0 block" href="/founders">
+                Founders
+              </Link>
+            </li>
+           
             <li>
               <Link className="md:p-4 py-3 px-0 block" href="/about">
                 About Us
