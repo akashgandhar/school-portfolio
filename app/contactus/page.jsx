@@ -109,8 +109,30 @@ const Page = () => {
                     </div>
                     <div class="ml-6 grow">
                       <p class="mb-2 font-bold ">Technical support</p>
-                      <p class="text-sm text-neutral-500">example@gmail.com</p>
-                      <p class="text-sm text-neutral-500">1-600-890-4567</p>
+                      <p class="text-sm text-neutral-500 flex flex-col">
+                        <a
+                          className="hover:text-[#255c39]"
+                          href="mailto:akashgandhar007@gmail.com"
+                        >
+                          akashgandhar007@gmail.com
+                        </a>
+                        <a
+                          className="hover:text-[#255c39]"
+                          href="mailto:akashgandhar007@gmail.com"
+                        >
+                          taliyansarthak12@gmail.com
+                        </a>
+                      </p>
+                      
+                      <p class="text-sm text-neutral-500">
+                        <a className="hover:text-[#255c39]" href="tel:+917983461538">
+                          +917983461538
+                        </a>
+                        ,{" "}
+                        <a className="hover:text-[#255c39]" href="tel:+919870627396">
+                          +919870627396
+                        </a>
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -137,8 +159,9 @@ const Page = () => {
                     <div class="ml-6 grow">
                       <p class="mb-2 font-bold ">Address</p>
                       <p class="text-sm text-neutral-500">
-                        abcd, <br />
-                        xyz <br />
+                        B 2 Block, B-02, Maharana Pratap Marg, Ramprastha
+                        Colony, B Block, Surya Nagar, Ghaziabad, Uttar Pradesh
+                        201011, India
                       </p>
                     </div>
                   </div>
